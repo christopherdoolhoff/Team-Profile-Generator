@@ -15,13 +15,13 @@ Use the following command: `npm i jest@24.9.0`.
 
 A user can create a team HTML file by following the prompts and answering the questions about their team. 
 
-The following is a video of the application. [Click here for link to video](https://drive.google.com/file/d/1rcQv92esTd8BJ-DnASeWCg721fGLzYMG/view)
+The following is a video of the application. [Click here for link to video](https://drive.google.com/file/d/1Dbo1jfounh6jwoNB0eIjZn2jfHIcLIi1/view)
 
-![Video of application](/Develop/assets/Demo%20of%20README%20Generator.gif)
+![Video of application](/assets/demo_video.gif)
 
-The following is a screenshot of the README created in the video
+The following is a screenshot of the html created in the video
 
-![screenshot of README from video](/Develop/assets/Screenshot%202022-12-06%20203807.png)
+![screenshot of html from video](/assets/Screenshot%202023-01-08%20230344.png)
 
 ## License
 
